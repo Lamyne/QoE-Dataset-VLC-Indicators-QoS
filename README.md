@@ -59,48 +59,78 @@ Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by users.
  --> The attributes are (dontated by Lamine Amour, 
 	lamine.amour@u-pec )
  	1)  id
+	
 	2)  QoS_bandwidth
+	
 	3)  QoS_packet-loss
+	
 	4)  QoS_delay
+	
 	5)  QoS_jitter
+	
 	6)  V_id-video
+	
 	7)  V_content
+	
 	8)  V_norm-bitrate
+	
 	9)  V_complexity
+	
 	10) V_complexity-class
+	
 	11) QoA_VLCresolution
+	
  	12) QoA_VLCbitrate
-	13) QoA_VLCframerate  
+	
+	13) QoA_VLCframerate 
+	
  	14) QoA_VLCdropped
+	
 	15) QoA_VLCaudiorate
+	
  	16) QoA_VLCaudioloss
+	
  	17) QoD-cpu_mhz-moy
+	
 	18) QoD-cpu_mhz-avg 
+	
 	19) QoD_cpu-nbr
+	
 	20) QoD-cpu_core-nbr
+	
  	21) QoD_stepping
+	
 	22) QoD-cpu_bigo-mips
+	
 	23) QoD_carte-class
+	
 	24) QoD_screen-resolotion
+	
 	25) QoD_screen-dimension
+	
 	26) QoD_screen-mhz
+	
 	27) QoD-screen_blug-type
+	
 	28) QoD-ram_clock-speed
+	
 	29) QoD_ram-size
+	
         30) MOS
 	
 	-- Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
 	
-	  - Newtork parameters (QoS) (2 to 5)
+- Newtork parameters (QoS) (2 to 5)
 	  
-	  - Video content analysis results (6 to 10)
+- Video content analysis results (6 to 10)
 	  
-	  - VLC player indicators (QoA) (11 to 16)
+- VLC player indicators (QoA) (11 to 16)
 	  
-	  - Device characteristics  (QoD)(17 to 29)
+- Device characteristics  (QoD)(17 to 29)
 	  
-          - User's MOS scoe(30)		  
+- User's MOS scoe(30)		  
              
+	     
  --> Number of Instances : 
 
     class 1 (MOS = 1): 29  
