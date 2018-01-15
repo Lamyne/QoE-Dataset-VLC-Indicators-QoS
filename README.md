@@ -46,13 +46,13 @@ few or no experience with video assessment experimentation.
 
 The dataset is presented in different formats/files as follows:
 
-The content of the dataset can be uploaded with differnt formats. These formats are: 
+The content of the dataset can be uploaded with different formats. These formats are: 
 
 - name.csv : Microsoft Excel 2013 file.
 
 - name.arff : Weka files (https://en.wikipedia.org/wiki/Weka_(machine_learning).
 
-- name.data : Open Document format (https://en.wikipedia.org/wiki/OpenDocument.
+- name.data : Open Document format (https://en.wikipedia.org/wiki/OpenDocument).
 
 Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by users. 
 
