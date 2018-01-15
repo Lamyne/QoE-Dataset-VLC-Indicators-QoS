@@ -52,7 +52,7 @@ The dataset is presented in different formats/files as follows:
 
 Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by userss. 
 
- -- The attributes are (dontated by Lamine Amour, 
+ --> The attributes are (dontated by Lamine Amour, 
 	lamine.amour@u-pec )
  	1)  id
 	2)  QoS_bandwidth
@@ -83,46 +83,41 @@ Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
 	27) QoD-screen_blug-type
 	28) QoD-ram_clock-speed
 	29) QoD_ram-size
-     30) MOS
+       30) MOS
 	
 	-- Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
-	      - Newtork parameters (QoS) (2 to 5)
-		  - Video content analysis results (6 to 10)
-	      - VLC player indicators (QoA) (11 to 16)
-		  - Device characteristics  (QoD)(17 to 29)
-          - User's 	MOS scoe(30)		  
+	  - Newtork parameters (QoS) (2 to 5)
+	  - Video content analysis results (6 to 10)
+	  - VLC player indicators (QoA) (11 to 16)
+	  - Device characteristics  (QoD)(17 to 29)
+          - User's MOS scoe(30)		  
              
-5. Number of Instances : 
+ --> Number of Instances : 
 
-      	class 1 (MOS = 1): 29  
-		class 2 (MOS = 2): 66
-		class 3 (MOS = 3): 73
-		class 4 (MOS = 4): 69
-		class 5 (MOS = 5): 63
+      class 1 (MOS = 1): 29  
+      class 2 (MOS = 2): 66
+      class 3 (MOS = 3): 73
+      class 4 (MOS = 4): 69
+      class 5 (MOS = 5): 63
 
-6. Number of Attributes 
+ --> Number of Attributes 
 	
 	30
 
-7. For Each Attribute:
+ --> For Each Attribute:
 
 	All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and 
 	device screen size (QoD_screen_size)
 	
-	No statistics available, but suggest to standardise
-	variables for certain uses. 
-
-	NOTES: 
-      
-	  - 		  
-		  
-	  
-	  - 19st (MOS) Mean Opinion Scroe that a tester will give at the end of each video view.
-		   5 -> Excellent
-		   4 -> Good
-		   3 -> Fair
-		   2 -> Poor
-		   1 -> Bad
+	
+ --> NOTES: 
+        
+- 19st (MOS) Mean Opinion Scroe that a tester will give at the end of each video view.
+	  5 -> Excellent
+	  4 -> Good
+	  3 -> Fair
+	  2 -> Poor
+          1 -> Bad
 
 4- Related publications
 
