@@ -118,18 +118,20 @@ Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by users.
 	
         30) MOS
 	
-	-- Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
+
+-- Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
 	
-- Newtork parameters (QoS) (2 to 5)
+ - Newtork parameters (QoS) (2 to 5)
 	  
-- Video content analysis results (6 to 10)
+ - Video content analysis results (6 to 10)
 	  
-- VLC player indicators (QoA) (11 to 16)
+ - VLC player indicators (QoA) (11 to 16)
 	  
-- Device characteristics  (QoD)(17 to 29)
+ - Device characteristics  (QoD)(17 to 29)
 	  
-- User's MOS scoe(30)		  
-             
+ - User's MOS scoe(30)		  
+      
+      
 	     
  --> Number of Instances : 
 
