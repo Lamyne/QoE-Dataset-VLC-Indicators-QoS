@@ -2,11 +2,17 @@
 
 This work is proposed to describe and to share a new subjective QoE dataset that assess YouTube video quality in controlled
 laboratory environment. This dataset is an improvment for our published dataset (https://github.com/Lamyne/QoE-Dataset-VLC-Indicators/) that concerns QoE assessment using VLC player indicators. In fact, it is collected using the subjective Absolute Category Rate (ACR) method based on Mean Opinion Score (MOS) ratting score. The used platform is composed by the following components:
+
 • VideoLAN  Client  player  (VLC):  To  display  YouTube video with its URLs (Uniform Resource Locator).
+
 • Netem (Network Emulator): To generate the QoS parameters variations (link bandwidth, packet loss rate, ...etc.).
+
 • Python  language:  To  implement  GUI  (Graphical  User Interface).
+
 • MySQL database server: To store all the desired QoE IFs values on the database.
+
 • Several PVSs (Processed Video Sequences) are considered.
+
 • Validation questions to check participants feedback and to clean the resulted datset.
 
 
