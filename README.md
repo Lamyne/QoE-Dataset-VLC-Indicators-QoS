@@ -46,11 +46,15 @@ few or no experience with video assessment experimentation.
 
 The dataset is presented in different formats/files as follows:
 
-    CSV (Microsoft)
-    ARF (Weka tool)
-    data (Genral format)
+The content of the dataset can be uploaded with differnt formats. These formats are: 
 
-Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by userss. 
+- name.csv : Microsoft Excel 2013 file.
+
+- name.arff : Weka files (https://en.wikipedia.org/wiki/Weka_(machine_learning).
+
+- name.data : Open Document format (https://en.wikipedia.org/wiki/OpenDocument.
+
+Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by users. 
 
  --> The attributes are (dontated by Lamine Amour, 
 	lamine.amour@u-pec )
@@ -83,22 +87,31 @@ Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
 	27) QoD-screen_blug-type
 	28) QoD-ram_clock-speed
 	29) QoD_ram-size
-       30) MOS
+        30) MOS
 	
 	-- Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
+	
 	  - Newtork parameters (QoS) (2 to 5)
+	  
 	  - Video content analysis results (6 to 10)
+	  
 	  - VLC player indicators (QoA) (11 to 16)
+	  
 	  - Device characteristics  (QoD)(17 to 29)
+	  
           - User's MOS scoe(30)		  
              
  --> Number of Instances : 
 
-      class 1 (MOS = 1): 29  
-      class 2 (MOS = 2): 66
-      class 3 (MOS = 3): 73
-      class 4 (MOS = 4): 69
-      class 5 (MOS = 5): 63
+    class 1 (MOS = 1): 29  
+    
+    class 2 (MOS = 2): 66
+    
+    class 3 (MOS = 3): 73
+    
+    class 4 (MOS = 4): 69
+    
+    class 5 (MOS = 5): 63
 
  --> Number of Attributes 
 	
@@ -106,18 +119,22 @@ Both files contain 29 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
 
  --> For Each Attribute:
 
-	All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and 
-	device screen size (QoD_screen_size)
+All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and device screen size (QoD_screen_size)
 	
 	
  --> NOTES: 
         
 - 19st (MOS) Mean Opinion Scroe that a tester will give at the end of each video view.
-	  5 -> Excellent
-	  4 -> Good
-	  3 -> Fair
-	  2 -> Poor
-          1 -> Bad
+
+5 -> Excellent
+	  
+4 -> Good
+	  
+3 -> Fair
+	  
+2 -> Poor
+	  
+1 -> Bad
 
 4- Related publications
 
