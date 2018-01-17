@@ -1,7 +1,7 @@
 @relation 'VLC-QoS-QoEIF- virgule 7'
 
 @attribute id numeric
-@attribute QoS_bandwidth {1024,1536,2048,2560,3072,3584,4096}
+@attribute QoS_bandwidth {1024,1536,2048,2560,3072,3584,4096,4608}
 @attribute QoS_packet-loss {'0\%'}
 @attribute QoS_delay numeric
 @attribute QoS_jitter numeric
