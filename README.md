@@ -24,8 +24,6 @@ The testbed is achieved in the LiSSi laboratory (http://lab.lissi.fr/) around Pa
 
 
 
-
-
 1- Source:
 
 Creators: 
@@ -176,12 +174,6 @@ Q2SWinet@MSWiM: pages 139-140. November 2015.
 (b) Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk: A Hierarchical Classification Model of QoE Influence Factors. 
 WWIC 2015: pages 225-238, May 2015.
 
-(c) Lamine Amour, Sami Souihi, Abdelhamid Mellouk: ACR-based Subjective QoE Datasets to Quantify YouTube Video Quality. 
-QoMEX 2018: pages xxx-xxx, 2015 (Submitted).
 
 5- Citation Request:
 
-The following citation is requested if you use the dataset:
-
-Lamine Amour, Sami Souihi, Abdelhamid Mellouk: ACR-based Subjective QoE Datasets to Quantify YouTube Video Quality.
-QoMEX 2018: pages xxx-xxx, 2015 (Submitted).
